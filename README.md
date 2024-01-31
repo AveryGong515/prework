@@ -18,6 +18,7 @@ The following **required** functionality is completed:
 https://github.com/AveryGong515/prework/blob/main/demo.gif
 
 ## App Brainstorming (Step 4) 
+Some of my favorite apps:
 Wechat
 - Ability to recall messages within 2 minutes
 - Feature for grouping friends into different categories and giving them different access to your posts
@@ -29,6 +30,9 @@ Spotify
 Outlook
 - Schedule-send feature to preset email send time
 - Calendar feature that automatically sends reminder for upcoming events
+
+Some ideas for an app I want to build:
+I have been wanting to build a grocery inventory tracking app for a while now. Grocery waste is a huge problem in the United States, and a primary cause of this problem is lack of organization in grocery shopping and impulse purchases. Many times, I found myself buying food that I already have in the fridge unknowingly, which oftentimes lead to spoiled food and spending money on unnecessary items. To help myself and many others that struggle with grocery waste, I want to implement a tool that not only has a shopping list, but also keep track of an inventory list with item availability at home and their expiry dates. When an item runs out, it will be deleted from the inventory and added to the shopping list (or not if the user chooses not to). The user will get push notification to remind them of items near or past expiration. To make entering items easier, I would like to implement a feature that allows users to scan the barcode of items similar to in a grocery shop, and the item name will be automatically entered into the system. Gamification is also an interesting idea I want to explore - making the user experience rewardable through tracking their progress in being sustainable and wasting less groceries.
 
 
 
