@@ -2,7 +2,7 @@
 
 Submitted by: Avery Xinran Gong
 
-HelloWorld is my first intro to building app using XCode. This very simple app contains a brief introduction of myself and a fun little button "Admit Me" that represents my hope of being admitted to ios101 :)
+HelloWorld is my first intro to building app using XCode. This very simple app contains a brief introduction of myself and a fun little button "Admit Me" that changes the background color and represents my hope of being admitted to ios101 :) 
 
 Time spent: 2 hours spent in total
 
