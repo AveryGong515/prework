@@ -1,10 +1,10 @@
-# Prework - SaveABite
+# Prework - HelloWorld
 
 Submitted by: Avery Xinran Gong
 
-SaveABite is an app that keeps track of groceries inventory, which is to be implemented.Currently, this project only contains an placeholder app that implements the prework exercise.
+HelloWorld is my first intro to building app using XCode. This very simple app contains a brief introduction of myself and a fun little button "Admit Me" that represents my hope of being admitted to ios101 :)
 
-Time spent: 0.5 hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -47,6 +47,8 @@ Outlook
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I chose the wrong interface at first and was confused by a lot of the instructions because the tool bar menu was different, but overall it was very straightforward.
 
 ## License
 
